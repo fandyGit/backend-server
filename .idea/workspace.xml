@@ -17,7 +17,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-169">
+            <state relative-caret-position="26">
               <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
                 <element signature="e#289#664#0" />
@@ -87,6 +87,9 @@
       <replace>mongodb_user</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -121,18 +124,18 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,6 +147,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,11 +208,12 @@
       <workItem from="1538208905688" duration="1427000" />
       <workItem from="1538268008132" duration="900000" />
       <workItem from="1538269285661" duration="55000" />
+      <workItem from="1538966704064" duration="307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96675000" />
+    <option name="totallyTimeSpent" value="96982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -217,12 +222,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31630972" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.51155114" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -246,6 +251,66 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#289#664#0" />
+            <element signature="e#385#660#0" />
+            <element signature="e#449#605#0" />
+            <element signature="e#609#656#0" />
+            <element signature="e#711#791#0" />
+            <element signature="e#745#788#0" />
+            <element signature="e#852#1533#0" />
+            <element signature="e#989#1530#0" />
+            <element signature="e#1061#1381#0" />
+            <element signature="e#1087#1226#0" />
+            <element signature="e#1107#1185#0" />
+            <element signature="e#1230#1376#0" />
+            <element signature="e#1259#1368#0" />
+            <element signature="e#1295#1359#0" />
+            <element signature="e#1471#1504#0" />
+            <element signature="e#1590#1738#0" />
+            <element signature="e#1701#1735#0" />
+            <element signature="e#1816#2219#0" />
+            <element signature="e#1991#2216#0" />
+            <element signature="e#2027#2163#0" />
+            <element signature="e#2106#2155#0" />
+            <element signature="e#2167#2212#0" />
+            <element signature="e#2395#2517#0" />
+            <element signature="e#2463#2513#0" />
+            <element signature="e#2603#2936#0" />
+            <element signature="e#2713#2933#0" />
+            <element signature="e#2774#2928#0" />
+            <element signature="e#2872#2922#0" />
+            <element signature="e#3018#3522#0" />
+            <element signature="e#3110#3199#0" />
+            <element signature="e#3387#3519#0" />
+            <element signature="e#3415#3463#0" />
+            <element signature="e#3467#3515#0" />
+            <element signature="e#3608#3810#0" />
+            <element signature="e#3695#3806#0" />
+            <element signature="e#3757#3802#0" />
+            <element signature="e#3882#4196#0" />
+            <element signature="e#3931#4018#0" />
+            <element signature="e#3966#4014#0" />
+            <element signature="e#4050#4193#0" />
+            <element signature="e#4099#4136#0" />
+            <element signature="e#4140#4189#0" />
+            <element signature="e#4275#4883#0" />
+            <element signature="e#4404#4495#0" />
+            <element signature="e#4410#4492#0" />
+            <element signature="e#4551#4880#0" />
+            <element signature="e#4613#4832#0" />
+            <element signature="e#4663#4827#0" />
+            <element signature="e#4723#4765#0" />
+            <element signature="e#4769#4821#0" />
+            <element signature="e#4836#4876#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -674,7 +739,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-169">
+        <state relative-caret-position="26">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="e#289#664#0" />
